@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.CheckBox?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.RadioButton?>
+<?import javafx.scene.control.ToggleGroup?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+
+
+<AnchorPane id="AnchorPane" prefHeight="400.0" prefWidth="600.0" xmlns:fx="http://javafx.com/fxml/1" xmlns="http://javafx.com/javafx/8.0.171" fx:controller="online_mcq.QuestionSet_1Controller">
+   <children>
+      <AnchorPane id="AnchorPane" prefHeight="600.0" prefWidth="800.0">
+         <children>
+            <Button layoutX="69.0" layoutY="18.0" mnemonicParsing="false" onAction="#page1BackButtonAction" text="BACK">
+               <font>
+                  <Font name="Candara" size="14.0" />
+               </font>
+            </Button>
+            <Label alignment="CENTER" layoutX="150.0" prefHeight="45.0" prefWidth="445.0" text="page 1">
+               <font>
+                  <Font name="Candara" size="24.0" />
+               </font>
+            </Label>
+            <Label fx:id="question1" layoutX="50.0" layoutY="50.0" prefHeight="70.0" prefWidth="700.0" wrapText="true">
+               <padding>
+                  <Insets left="10.0" />
+               </padding>
+               <font>
+                  <Font name="Candara" size="18.0" />
+               </font>
+            </Label>
+            <AnchorPane layoutX="50.0" layoutY="115.0" prefHeight="200.0" prefWidth="700.0">
+               <children>
+                  <RadioButton fx:id="radioButton11" layoutX="150.0" layoutY="14.0" mnemonicParsing="false" onAction="#question1ToggleAction">
+                     <font>
+                        <Font size="18.0" />
+                     </font>
+                     <toggleGroup>
+                        <ToggleGroup fx:id="option1" />
+                     </toggleGroup>
+                  </RadioButton>
+                  <RadioButton fx:id="radioButton12" layoutX="150.0" layoutY="56.0" mnemonicParsing="false" onAction="#question1ToggleAction" toggleGroup="$option1">
+                     <font>
+                        <Font size="18.0" />
+                     </font>
+                  </RadioButton>
+                  <RadioButton fx:id="radioButton13" layoutX="150.0" layoutY="92.0" mnemonicParsing="false" onAction="#question1ToggleAction" toggleGroup="$option1">
+                     <font>
+                        <Font size="18.0" />
+                     </font>
+                  </RadioButton>
+                  <RadioButton fx:id="radioButton14" layoutX="150.0" layoutY="132.0" mnemonicParsing="false" onAction="#question1ToggleAction" toggleGroup="$option1">
+                     <font>
+                        <Font size="18.0" />
+                     </font>
+                  </RadioButton>
+                  <CheckBox fx:id="checkBox11" layoutX="97.0" layoutY="14.0" mnemonicParsing="false">
+                     <font>
+                        <Font size="18.0" />
+                     </font>
+                  </CheckBox>
+                  <CheckBox fx:id="checkBox12" layoutX="97.0" layoutY="56.0" mnemonicParsing="false">
+                     <font>
+                        <Font size="18.0" />
+                     </font>
+                  </CheckBox>
+                  <CheckBox fx:id="checkBox13" layoutX="97.0" layoutY="92.0" mnemonicParsing="false">
+                     <font>
+                        <Font size="18.0" />
+                     </font>
+                  </CheckBox>
+                  <CheckBox fx:id="checkBox14" layoutX="97.0" layoutY="132.0" mnemonicParsing="false">
+                     <font>
+                        <Font size="18.0" />
+                     </font>
+                  </CheckBox>
+                  <Label fx:id="answer1" alignment="CENTER" layoutX="114.0" layoutY="168.0" prefHeight="34.0" prefWidth="500.0">
+                     <font>
+                        <Font size="18.0" />
+                     </font>
+                     <padding>
+                        <Insets left="10.0" />
+                     </padding>
+                  </Label>
+               </children>
+            </AnchorPane>
+            <Label fx:id="question2" layoutX="50.0" layoutY="317.0" prefHeight="70.0" prefWidth="700.0" wrapText="true">
+               <padding>
+                  <Insets left="10.0" />
+               </padding>
+               <font>
+                  <Font name="Candara" size="18.0" />
+               </font>
+            </Label>
+            <AnchorPane layoutX="50.0" layoutY="382.0" prefHeight="200.0" prefWidth="700.0">
+               <children>
+                  <RadioButton fx:id="radioButton21" layoutX="136.0" layoutY="14.0" mnemonicParsing="false" onAction="#question2ToggleAction">
+                     <font>
+                        <Font size="18.0" />
+                     </font>
+                     <toggleGroup>
+                        <ToggleGroup fx:id="option2" />
+                     </toggleGroup>
+                  </RadioButton>
+                  <RadioButton fx:id="radioButton22" layoutX="136.0" layoutY="56.0" mnemonicParsing="false" onAction="#question2ToggleAction" toggleGroup="$option2">
+                     <font>
+                        <Font size="18.0" />
+                     </font>
+                  </RadioButton>
+                  <RadioButton fx:id="radioButton23" layoutX="136.0" layoutY="92.0" mnemonicParsing="false" onAction="#question2ToggleAction" toggleGroup="$option2">
+                     <font>
+                        <Font size="18.0" />
+                     </font>
+                  </RadioButton>
+                  <RadioButton fx:id="radioButton24" layoutX="136.0" layoutY="132.0" mnemonicParsing="false" onAction="#question2ToggleAction" toggleGroup="$option2">
+                     <font>
+                        <Font size="18.0" />
+                     </font>
+                  </RadioButton>
+                  <CheckBox fx:id="checkBox21" layoutX="97.0" layoutY="14.0" mnemonicParsing="false">
+                     <font>
+                        <Font size="18.0" />
+                     </font>
+                  </CheckBox>
+                  <CheckBox fx:id="checkBox22" layoutX="97.0" layoutY="56.0" mnemonicParsing="false">
+                     <font>
+                        <Font size="18.0" />
+                     </font>
+                  </CheckBox>
+                  <CheckBox fx:id="checkBox23" layoutX="97.0" layoutY="92.0" mnemonicParsing="false">
+                     <font>
+                        <Font size="18.0" />
+                     </font>
+                  </CheckBox>
+                  <CheckBox fx:id="checkBox24" layoutX="97.0" layoutY="132.0" mnemonicParsing="false">
+                     <font>
+                        <Font size="18.0" />
+                     </font>
+                  </CheckBox>
+                  <Label fx:id="answer2" alignment="CENTER" layoutX="130.0" layoutY="171.0" prefHeight="34.0" prefWidth="500.0">
+                     <font>
+                        <Font size="18.0" />
+                     </font>
+                     <padding>
+                        <Insets left="10.0" />
+                     </padding>
+                  </Label>
+               </children>
+            </AnchorPane>
+            <Button layoutX="734.0" layoutY="557.0" mnemonicParsing="false" onAction="#page1NextButtonAction" text="NEXT">
+               <font>
+                  <Font name="Candara" size="14.0" />
+               </font>
+            </Button>
+         </children>
+      </AnchorPane>
+   </children>
+</AnchorPane>

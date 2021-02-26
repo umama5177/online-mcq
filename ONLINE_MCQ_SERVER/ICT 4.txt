@@ -1,0 +1,51 @@
+1.  ____________ is a set of computer programs used on a computer to help perform tasks.
+a.  An instruction
+b.  Software
+c.  Memory
+d.  A processor
+2.  System software is the set of programs that enables your computers hardware devices and ____________ software to work together.
+a.  management
+b.  processing
+c.  utility
+d.  application
+3.  The PC (personal computer) and the Apple Macintosh are examples of two different:
+a.  platforms.
+b.  applications.
+c.  programs.
+d.  storage devices.
+4.  Apple Macintoshes (Macs) and PCs use different ____________ to process data and different operating systems.
+a.  languages
+b.  methods
+c.  CPUs
+d.  storage devices
+5.  Servers are computers that provide resources to other computers connected to a:
+a.  network.
+b.  mainframe.
+c.  supercomputer.
+d.  client.
+6.  Smaller and less expensive PC-based servers are replacing ____________ in many businesses.
+a.  supercomputers
+b.  clients
+c.  laptops
+d.  mainframes
+7.  ____________ are specially designed computers that perform complex calculations extremely rapidly.
+a.  Servers
+b.  Supercomputers
+c.  Laptops
+d.  Mainframes
+8.  DSL is an example of a(n) ____________ connection.
+a.  network
+b.  wireless
+c.  slow
+d.  broadband
+9.  The difference between people with access to computers and the Internet and those without this access is known as the:
+a.  digital divide.
+b.  Internet divide.
+c.  Web divide.
+d.  broadband divide.
+10.  ____________ is the science revolving around the use of nano structures to build devices on an extremely small scale.
+a.  Nanotechnology
+b.  Micro-technology
+c.  Computer forensics
+d.  Artificial intelligence
+b d a c a d b d a a

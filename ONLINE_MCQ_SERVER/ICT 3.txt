@@ -1,0 +1,51 @@
+1.  A ____________ is approximately one billion bytes.
+a.  kilobyte
+b.  bit
+c.  gigabyte
+d.  megabyte
+2.  A ____________ is approximately a million bytes.
+a.  gigabyte
+b.  kilobyte
+c.  megabyte
+d.  terabyte
+3.  ____________ is any part of the computer that you can physically touch.
+a.  Hardware
+b.  A device
+c.  A peripheral
+d.  An application
+4.  The components that process data are located in the:
+a.  input devices.
+b.  output devices.
+c.  system unit.
+d.  storage component.
+5.  All of the following are examples of input devices except a:
+a.  scanner.
+b.  mouse.
+c.  keyboard.
+d.  printer.
+6.  Which of the following is an example of an input device?
+a.  scanner
+b.  speaker
+c.  CD
+d.  printer
+7.  All of the following are examples of storage devices except:
+a.  hard disk drives.
+b.  printers.
+c.  floppy disk drives.
+d.  CD drives.
+8.  The ____________, also called the â€œbrainsâ€ of the computer, is responsible for processing data.
+a.  motherboard
+b.  memory
+c.  RAM
+d.  central processing unit (CPU)
+9.  The CPU and memory are located on the:
+a.  expansion board.
+b.  motherboard.
+c.  storage device.
+d.  output device.
+10.  Word processing, spreadsheet, and photo-editing are examples of:
+a.  application software.
+b.  system software.
+c.  operating system software.
+d.  platform software.
+c c a c d a b d b a

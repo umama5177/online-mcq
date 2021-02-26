@@ -1,0 +1,51 @@
+1.  Which of the following is the correct order of the four major functions of a computer?
+a.  Process A  Output A  Input A  Storage
+b.  Input A OutputA  Process A Storage
+c.  Process A  Storage A  Input A  Output
+d.  Input A  Process A  Output A  Storage
+2.  ____________ bits equal one byte.
+a.  Eight
+b.  Two
+c.  One thousand
+d.  One million
+3.  The binary language consists of ____________ digit(s).
+a.  8
+b.  2
+c.  1,000
+d.  1
+4.  A byte can hold one ____________ of data.
+a.  bit
+b.  binary digit
+c. character
+d.  kilobyte
+5. ____________ controls the way in which the computer system functions and provides a means by which users can interact with the computer.
+a. The platform
+b.  The operating system
+c.  Application software
+d.  The motherboard
+6.  The operating system is the most common type of ____________ software.
+a.  communication
+b.  application
+c.  system
+d.  word-processing software
+7.  ____________ are specially designed computer chips that reside inside other devices, such as your car or your electronic thermostat.
+a.  Servers
+b.  Embedded computers
+c.  Robotic computers
+d.  Mainframes
+8.  The steps and tasks needed to process data, such as responses to questions or clicking an icon, are called:
+a.  instructions.
+b.  the operating system.
+c.  application software.
+d.  the system unit.
+9.  The two broad categories of software are:
+a.  word processing and spreadsheet.
+b.  transaction and application.
+c.  Windows and Mac OS.
+d.  system and application.
+10.  The metal or plastic case that holds all the physical parts of the computer is the:
+a.  system unit.
+b.  CPU.
+c.  mainframe.
+d.  platform.
+d a b c b c b a d a

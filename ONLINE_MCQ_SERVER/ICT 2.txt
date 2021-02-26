@@ -1,0 +1,52 @@
+1.  ____________ is the science that attempts to produce machines that display the same type of intelligence that humans do.
+a.  Nanoscience
+b.  Nanotechnology
+c.  Simulation
+d.  Artificial intelligence (AI)
+2.  ____________ is data that has been organized or presented in a meaningful fashion.
+a.  A process
+b.  Software
+c.  Storage
+d.  Information
+3.  The name for the way that computers manipulate data into information is called:
+a.  programming.
+b.  processing.
+c.  storing.
+d.  organizing.
+4.  Computers gather data, which means that they allow users to ____________ data.
+a.  present
+b.  input
+c.  output
+d.  store
+5. After a picture has been taken with a digital camera and processed appropriately, the actual print of the picture is considered:
+a.  data.
+b.  output.
+c.  input.
+d.  the process.
+6.  Computers use the ____________ language to process data.
+a.  processing
+b.  kilobyte
+c.  binary
+d.  representational
+7.  Computers process data into information by working exclusively with:
+a.  multimedia.
+b.  words.
+c.  characters.
+d.  numbers.
+8. In the binary language each letter of the alphabet, each number and each special character is made up of a unique combination of:
+a.  eight bytes.
+b.  eight kilobytes.
+c.  eight characters.
+d.  eight bits.
+9.  The term bit is short for:
+a.  megabyte.
+b.  binary language.
+c.  binary digit.
+d.  binary number.
+10. A string of eight 0s and 1s is called a:
+a. megabyte.
+b. byte.
+c. kilobyte.
+d. gigabyte.
+d d b b b c d d c b
+

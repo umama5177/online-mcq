@@ -1,0 +1,51 @@
+﻿1.   All of the following are examples of real security and privacy risks EXCEPT:
+a.   hackers.
+b.   spam.
+c.   viruses.
+d.   identity theft.
+2.   A process known as ____________ is used by large retailers to study trends.
+a.   data mining
+b.   data selection
+c.   POS
+d.   data conversion
+3.   ____________terminals (formerly known as cash registers) are often connected to complex inventory and sales computer systems.
+a.   Data
+b.   Point-of-sale (POS)
+c.   Sales
+d.   Query
+4.   A(n) ____________ system is a small, wireless handheld computer that scans an item's tag and pulls up the current price (and any special offers) as you shop.
+a.   PSS
+b.   POS
+c.   inventory
+d.   data mining
+5.   The ability to recover and read deleted or damaged files from a criminal's computer is an example of a law enforcement specialty called:
+a.  robotics.
+b.  simulation.
+c.  computer forensics.
+d.  animation.
+6.  Which of the following is NOT one of the four major data processing functions of a computer?
+a.  gathering data
+b.  processing data into information
+c.  analyzing the data or information
+d.  storing the data or information
+7.  ____________ tags, when placed on an animal, can be used to record and track in a database all of the animal’s movements.
+a.  POS
+b.  RFID
+c.  PPS
+d.  GPS
+8.  Surgeons can perform delicate operations by manipulating devices through computers instead of manually. This technology is known as:
+a.  robotics.
+b.  computer forensics.
+c.  simulation.
+d.  forecasting.
+9.  Technology no longer protected by copyright, available to everyone, is considered to be:
+a.  proprietary.
+b.  open.
+c.  experimental.
+d.  in the public domain.
+10. ____________ is the study of molecules and structures whose size ranges from 1 to 100 nanometers.
+a. Nanoscience
+b. Microelectrodes
+c. Computer forensics
+d. Artificial intelligence
+b a b a c c b a a a
